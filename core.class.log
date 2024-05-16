@@ -1,0 +1,2647 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '9FC31DB4504413345538AD88BE136B99',
+    participant: undefined
+  },
+  messageTimestamp: 1715788930,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '220A00737C63A20A01128D929EF97E8D',
+    participant: undefined
+  },
+  messageTimestamp: 1715788934,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '4E519B0BC2B6D138A8C432FC311A8E11',
+    participant: undefined
+  },
+  messageTimestamp: 1715788948,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Escribe una poesía sobre un oso polar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Escribe una poesía sobre un oso polar',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '64579C6FFBEF2DD66EBFE1A0430EBA60',
+    participant: undefined
+  },
+  messageTimestamp: 1715788962,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Escribe una poesía sobre un oso polar con apendicitis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Escribe una poesía sobre un oso polar con apendicitis',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '5BB617B2416CE14E0AFAF218142BC272',
+    participant: undefined
+  },
+  messageTimestamp: 1715788973,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Apendicitis en osos polares',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Apendicitis en osos polares',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'BDC5BF5A55F747C216CD93F98F1C25C3',
+    participant: undefined
+  },
+  messageTimestamp: 1715788980,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Apendicitis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Apendicitis',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '8437AF2AA6D4253D0F957EE34BD6F2A1',
+    participant: undefined
+  },
+  messageTimestamp: 1715792342,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jj',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '549D34565CD2D6957F90DD0A873C7DE7',
+    participant: undefined
+  },
+  messageTimestamp: 1715794328,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hospital privado Mendoza argentina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hospital privado Mendoza argentina',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612546181@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA3367B204BCE96E2A0',
+    participant: undefined
+  },
+  messageTimestamp: 1715802488,
+  pushName: 'Pedro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492612546181'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'A541817F6D30AAB8BEB759032A95F3CD',
+    participant: undefined
+  },
+  messageTimestamp: 1715802489,
+  pushName: '🎸🎵',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5492615267969'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'A541817F6D30AAB8BEB759032A95F3CD',
+    participant: undefined
+  },
+  messageTimestamp: 1715802490,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612546181@s.whatsapp.net',
+    fromMe: false,
+    id: '3A560132E7824A08B9AA',
+    participant: undefined
+  },
+  messageTimestamp: 1715802498,
+  pushName: 'Pedro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tengo un edema de glotis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo un edema de glotis',
+  from: '5492612546181'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '21926166BD40D24C4B4C9C2D1151B155',
+    participant: undefined
+  },
+  messageTimestamp: 1715802499,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Edema de glotis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Edema de glotis',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612546181@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA49CFECB791804A289',
+    participant: undefined
+  },
+  messageTimestamp: 1715802573,
+  pushName: 'Pedro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tengo un edema de escroto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo un edema de escroto',
+  from: '5492612546181'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '105069273FBD2CB2BC44752538610328',
+    participant: undefined
+  },
+  messageTimestamp: 1715802592,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuando tarda en pasar un suero de 500 a 42 gotas por minuto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuando tarda en pasar un suero de 500 a 42 gotas por minuto',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612546181@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC20149EA44481DE9D8',
+    participant: undefined
+  },
+  messageTimestamp: 1715802605,
+  pushName: 'Pedro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como administro epinefrina en edema de glotis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como administro epinefrina en edema de glotis',
+  from: '5492612546181'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612546181@s.whatsapp.net',
+    fromMe: false,
+    id: '3A08B1121222CD0E6135',
+    participant: undefined
+  },
+  messageTimestamp: 1715802623,
+  pushName: 'Pedro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como administro epinefrina en edema de glotis?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como administro epinefrina en edema de glotis?',
+  from: '5492612546181'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'C29CE9F3F934410BF7278C62BA2169B3',
+    participant: undefined
+  },
+  messageTimestamp: 1715802646,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Grupo sanguíneo negativo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Grupo sanguíneo negativo',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '7298E5EFD6754A8B3F4EF322CAD96D27',
+    participant: undefined
+  },
+  messageTimestamp: 1715802736,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Epinefrina en edema de glotis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Epinefrina en edema de glotis',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '035CE5120800653B526446894F20118D',
+    participant: undefined
+  },
+  messageTimestamp: 1715803343,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'T',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'T',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '8C60651C7D11389678499F6345F56E04',
+    participant: undefined
+  },
+  messageTimestamp: 1715803465,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Melena en hemorragia digestiva',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Melena en hemorragia digestiva',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0B23166F023E61F48EA8AE76F9D3DCF',
+    participant: undefined
+  },
+  messageTimestamp: 1715803550,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Fiebre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Fiebre',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'BA6595D157D80B802DDF69D8F2FF60BF',
+    participant: undefined
+  },
+  messageTimestamp: 1715804253,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo actuar paso a paso en un PCR',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo actuar paso a paso en un PCR',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '9478B0FC6E3E1DD9B86BD4F108870207',
+    participant: undefined
+  },
+  messageTimestamp: 1715804272,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo actuar paso a paso en un paro cardio respiratorio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo actuar paso a paso en un paro cardio respiratorio',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '334535CC51836830E51B5A04C90E9C04',
+    participant: undefined
+  },
+  messageTimestamp: 1715805534,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Alfametildopa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Alfametildopa',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB5E0BD26F43002A345E4AD7DD60580',
+    participant: undefined
+  },
+  messageTimestamp: 1715805552,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Alfametildopa embarazo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Alfametildopa embarazo',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: '2409A584B087EE78BFC4111BDD945FC1',
+    participant: undefined
+  },
+  messageTimestamp: 1715809829,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5492613432735'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: '2409A584B087EE78BFC4111BDD945FC1',
+    participant: undefined
+  },
+  messageTimestamp: 1715809829,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Faringitis que es?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Faringitis que es?',
+  from: '5492613432735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'A632325AFF297773156A27A99865D525',
+    participant: undefined
+  },
+  messageTimestamp: 1715809837,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5492613842470'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'A632325AFF297773156A27A99865D525',
+    participant: undefined
+  },
+  messageTimestamp: 1715809838,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que significa sca',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que significa sca',
+  from: '5492613842470'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '5F897328F1075A512476B20E4777B9D8',
+    participant: undefined
+  },
+  messageTimestamp: 1715809851,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Q significa sca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Q significa sca',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '8442D0D4351A2508E1522E0B729042E2',
+    participant: undefined
+  },
+  messageTimestamp: 1715809867,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'S.c.a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'S.c.a',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: '700F08EBAD6F9B0CB89B9928234B90E7',
+    participant: undefined
+  },
+  messageTimestamp: 1715809872,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Que es febricula?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Que es febricula?',
+  from: '5492613432735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'D07B10820CC935538ED9E9CB35577355',
+    participant: undefined
+  },
+  messageTimestamp: 1715809900,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    conversation: 'Q significa s.c.a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Q significa s.c.a',
+  from: '5492613842470'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '3B730F666183853CA974C5B85F4DD3A7',
+    participant: undefined
+  },
+  messageTimestamp: 1715809914,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que significa c.p.r.e',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que significa c.p.r.e',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2E06036515975B12D625F1C6B8FDC6F',
+    participant: undefined
+  },
+  messageTimestamp: 1715809930,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cpre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cpre',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615918320@s.whatsapp.net',
+    fromMe: false,
+    id: 'F89721F07CBAE09D86A996962585761D',
+    participant: undefined
+  },
+  messageTimestamp: 1715809949,
+  pushName: 'Ely',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5492615918320'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615918320@s.whatsapp.net',
+    fromMe: false,
+    id: 'F89721F07CBAE09D86A996962585761D',
+    participant: undefined
+  },
+  messageTimestamp: 1715809950,
+  pushName: 'Ely',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que es acidosis metabolica',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es acidosis metabolica',
+  from: '5492615918320'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '8CECDBFF3C52B29F27B6582853F858F7',
+    participant: undefined
+  },
+  messageTimestamp: 1715809965,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Síndrome coronario agudo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Síndrome coronario agudo',
+  from: '5492612533741'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615918320@s.whatsapp.net',
+    fromMe: false,
+    id: '1F7D13D91859256B6A712F02289680B0',
+    participant: undefined
+  },
+  messageTimestamp: 1715809966,
+  pushName: 'Ely',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es acidosis metabolica',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es acidosis metabolica',
+  from: '5492615918320'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9C8D6C043434F26DCCFEEE6377DDE02',
+    participant: undefined
+  },
+  messageTimestamp: 1715809985,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es tvp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es tvp',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6216EA37F7E3C1BBA685FCC251A88C0',
+    participant: undefined
+  },
+  messageTimestamp: 1715810027,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que significa sca?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que significa sca?',
+  from: '5492613432735'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615918320@s.whatsapp.net',
+    fromMe: false,
+    id: 'F99CBCA7B5842FB60C642578CDE0BF7C',
+    participant: undefined
+  },
+  messageTimestamp: 1715810028,
+  pushName: 'Ely',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que significa Sca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que significa Sca',
+  from: '5492615918320'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: '4007704CBCC3789856D5FE9D47D1C1FF',
+    participant: undefined
+  },
+  messageTimestamp: 1715810059,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que son las siglas s.c.a?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que son las siglas s.c.a?',
+  from: '5492613432735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '78E64E122462B2130F99E44B65AF5337',
+    participant: undefined
+  },
+  messageTimestamp: 1715810152,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es un síndrome',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es un síndrome',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC1A44F05A6F77AD7D302A7CD4EE0B44',
+    participant: undefined
+  },
+  messageTimestamp: 1715810230,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es cepre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es cepre',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'C5459CA8CADC40FC5A1D52F62BCD1C16',
+    participant: undefined
+  },
+  messageTimestamp: 1715810254,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'colangiopancreatografía retrógrada endoscópica',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'colangiopancreatografía retrógrada endoscópica',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '0C2B97FB63A544EE81A58DC55D220681',
+    participant: undefined
+  },
+  messageTimestamp: 1715810274,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'CPRE',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'CPRE',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '1C7CF4FFAE136DEDF97EBD3ED6565DF7',
+    participant: undefined
+  },
+  messageTimestamp: 1715810294,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que significan las siglas CPRE',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que significan las siglas CPRE',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: '13C7709D354DFE1C75E204CD251A7452',
+    participant: undefined
+  },
+  messageTimestamp: 1715810303,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5492613842470'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615918320@s.whatsapp.net',
+    fromMe: false,
+    id: '9C4549112A85A2CCCFA8B3D7583A6B74',
+    participant: undefined
+  },
+  messageTimestamp: 1715810344,
+  pushName: 'Ely',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es un potus',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es un potus',
+  from: '5492615918320'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: '9B41BB5BA1C04FE309D8CE83E38B34B8',
+    participant: undefined
+  },
+  messageTimestamp: 1715810353,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Factor goteo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Factor goteo',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'DEC14A343B9A0F64C63EF0420D1D4E35',
+    participant: undefined
+  },
+  messageTimestamp: 1715810377,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    conversation: 'El mal humor en el sistema de salud a que se debe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El mal humor en el sistema de salud a que se debe',
+  from: '5492613842470'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '058C02474483E35C23CE7FDEC51EDDDE',
+    participant: undefined
+  },
+  messageTimestamp: 1715810378,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Potus medicina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Potus medicina',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'C97347CFDD4B27D843C2963F211F7235',
+    participant: undefined
+  },
+  messageTimestamp: 1715810392,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como se administra la penicilina sulbactam',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como se administra la penicilina sulbactam',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD397C872382041B883BA4EC71DE52E8',
+    participant: undefined
+  },
+  messageTimestamp: 1715810409,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5492613842470'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'AA28EF676994B99B6769BAC0D4AFA9E6',
+    participant: undefined
+  },
+  messageTimestamp: 1715810436,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que médicamentos precipitan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que médicamentos precipitan',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615267969@s.whatsapp.net',
+    fromMe: false,
+    id: 'E19293F3D1401F009206A94BDE4D9F2F',
+    participant: undefined
+  },
+  messageTimestamp: 1715810507,
+  pushName: '🎸🎵',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Arteriopatia',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Arteriopatia',
+  from: '5492615267969'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: '65B66316C83B0A58EDC7BFB4EC60AEDB',
+    participant: undefined
+  },
+  messageTimestamp: 1715811058,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuantas horas laborales es saludable trabajar en el servicio de enfermeria',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuantas horas laborales es saludable trabajar en el servicio de enfermeria',
+  from: '5492613842470'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613842470@s.whatsapp.net',
+    fromMe: false,
+    id: 'DFF5A4AD46D9F18226BE5E8F9F34B2BF',
+    participant: undefined
+  },
+  messageTimestamp: 1715811087,
+  pushName: 'Yek 🩺',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5492613842470'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613432735@s.whatsapp.net',
+    fromMe: false,
+    id: '229B8992DF6A07D0C8FD28D803E04202',
+    participant: undefined
+  },
+  messageTimestamp: 1715811118,
+  pushName: '◇Emanuel◇',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como se regula un uniflow?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como se regula un uniflow?',
+  from: '5492613432735'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616336202@s.whatsapp.net',
+    fromMe: false,
+    id: '51D4B52F46E9256511B033C89C4B84EE',
+    participant: undefined
+  },
+  messageTimestamp: 1715811207,
+  pushName: 'Cinty',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5492616336202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616336202@s.whatsapp.net',
+    fromMe: false,
+    id: '51D4B52F46E9256511B033C89C4B84EE',
+    participant: undefined
+  },
+  messageTimestamp: 1715811207,
+  pushName: 'Cinty',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492616336202'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616336202@s.whatsapp.net',
+    fromMe: false,
+    id: '18E11E94B7E36FE6D08448FC54BFF1C8',
+    participant: undefined
+  },
+  messageTimestamp: 1715811234,
+  pushName: 'Cinty',
+  broadcast: false,
+  message: Message {
+    conversation: 'Q es el colestin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Q es el colestin',
+  from: '5492616336202'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616336202@s.whatsapp.net',
+    fromMe: false,
+    id: '34F25BF97D53BD0F24E9366D7EA092C3',
+    participant: undefined
+  },
+  messageTimestamp: 1715811256,
+  pushName: 'Cinty',
+  broadcast: false,
+  message: Message {
+    conversation: 'Colestin atb',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Colestin atb',
+  from: '5492616336202'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'D96E4DAA92A25FC48A5C3978F6843E47',
+    participant: undefined
+  },
+  messageTimestamp: 1715811279,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Colistina antibiótico',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Colistina antibiótico',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616336202@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA2344033B3FB6241F6BB497136603D4',
+    participant: undefined
+  },
+  messageTimestamp: 1715811334,
+  pushName: 'Cinty',
+  broadcast: false,
+  message: Message {
+    conversation: 'Úlceras por presión ? Q es ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Úlceras por presión ? Q es ?',
+  from: '5492616336202'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4B01A0699D7B6FB7028D00D9AAAF084',
+    participant: undefined
+  },
+  messageTimestamp: 1715811339,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'HEMATOCRITO  15,0 % H:12-14.5 ,M:11-13 g%mlHEMOGLOBINA      4,8 g%ml 3.500.000 a 4.800.000 mm3Rto. GLOBULO ROJO 1.550.000 mm3 4.000 - 10.500/mm³RECUENTO DE LEUCOCITOS  94.300 mm3 NOTA CONSULTA HEMATOLOGIA 150.000-450.000 mm3PLAQUETAS    18.000 mm3 0.70 a 1.10 g/LGLUCEMIA:     1,24 g/L 0.19 a 0.45 g/LUREMIA     0,94 g/L H:0.7-1.3  M:0.6-1.1mg/dlCREATININA   4,01 mg/dL 135 a 144 mmol/lSODIO 136,30 mmol/L 3.5 a 4.5 mmol/lPOTASIO     3,70 mmmol/l 101 a 113 mmol/lCLORURO 109 mmol/l Adultos: hasta 34 UI/LGOT     14 ui/L Adultos: hasta 55 UI/LGPT     15 UI/L Adulto: hasta 300 UI/LFAL 317 UI/L Hasta: 0.2 mg/dLBILIRRUBINA DIRECTA  0,29 mg/dL Hasta: 0.8 mg/dLBILIRRUBINA INDIRECTA 0.37 mg/dL Hasta: 1.0 mg/dLBILIRRUBINA TOTAL',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HEMATOCRITO  15,0 % H:12-14.5 ,M:11-13 g%mlHEMOGLOBINA      4,8 g%ml 3.500.000 a 4.800.000 mm3Rto. GLOBULO ROJO 1.550.000 mm3 4.000 - 10.500/mm³RECUENTO DE LEUCOCITOS  94.300 mm3 NOTA CONSULTA HEMATOLOGIA 150.000-450.000 mm3PLAQUETAS    18.000 mm3 0.70 a 1.10 g/LGLUCEMIA:     1,24 g/L 0.19 a 0.45 g/LUREMIA     0,94 g/L H:0.7-1.3  M:0.6-1.1mg/dlCREATININA   4,01 mg/dL 135 a 144 mmol/lSODIO 136,30 mmol/L 3.5 a 4.5 mmol/lPOTASIO     3,70 mmmol/l 101 a 113 mmol/lCLORURO 109 mmol/l Adultos: hasta 34 UI/LGOT     14 ui/L Adultos: hasta 55 UI/LGPT     15 UI/L Adulto: hasta 300 UI/LFAL 317 UI/L Hasta: 0.2 mg/dLBILIRRUBINA DIRECTA  0,29 mg/dL Hasta: 0.8 mg/dLBILIRRUBINA INDIRECTA 0.37 mg/dL Hasta: 1.0 mg/dLBILIRRUBINA TOTAL',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'CCAC0396E8B697F9A53BDBA5321BDC35',
+    participant: undefined
+  },
+  messageTimestamp: 1715818181,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '2D778D560385B4A507719D1A9C164BB6',
+    participant: undefined
+  },
+  messageTimestamp: 1715820782,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Presimax',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Presimax',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '6A992962705C9492F2F75149C64B20C8',
+    participant: undefined
+  },
+  messageTimestamp: 1715820793,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Clonazepam',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Clonazepam',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '24F0DAD4BA85D8FCA66DD051D9620352',
+    participant: undefined
+  },
+  messageTimestamp: 1715820808,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Furosemida',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Furosemida',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE29E1A385E48E07801C97531B36D51B',
+    participant: undefined
+  },
+  messageTimestamp: 1715826950,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0edf9f1-4317-44c8-9bca-768ed725ff18',
+  keyword: 'key_466cc149-99e0-4bfe-8523-56d496fa1d93',
+  answer: 'Ingrese su pregunta:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ec6370b95ca670a916fc6967a2415e01'
+}
