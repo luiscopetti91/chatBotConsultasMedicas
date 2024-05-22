@@ -38,7 +38,7 @@ async function initializeModel() {
 // Definición del flujo principal del bot
 const principal = addKeyword([""])
     // Respuestas automáticas al ingresar un texto
-    .addAnswer("Asistente virtual medico! Realiza tu pregunta 👇", { capture: true }, async (ctx, ctxFn) => {
+    .addAnswer("Asistente virtual. Pregunta lo que quieras  👇", { capture: true }, async (ctx, ctxFn) => {
         // Captura el mensaje del usuario
         const prompt = promptConsultas;
         const consulta = ctx.body;
