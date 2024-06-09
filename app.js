@@ -16,6 +16,7 @@ const path = require("path");
 // Importa el módulo 'fs', que proporciona utilidades para trabajar con el sistema de archivos
 const fs = require("fs");
 
+
 // Importa la biblioteca de Gemini para Node.js
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
@@ -25,6 +26,9 @@ const pathConsultas = path.join(__dirname, "mensajes", "promptConsultas.txt");
 const promptConsultas = fs.readFileSync(pathConsultas, "utf8");
 
 //
+
+
+
 
 // Función para inicializar el modelo de Gemini
 async function initializeModel() {
@@ -38,7 +42,7 @@ async function initializeModel() {
 // Definición del flujo principal del bot
 const principal = addKeyword([""])
     // Respuestas automáticas al ingresar un texto
-    .addAnswer("Asistente virtual. Pregunta lo que quieras  👇", { capture: true }, async (ctx, ctxFn) => {
+    .addAnswer("Di algo mas!!!  👇", { capture: true }, async (ctx, ctxFn) => {
         // Captura el mensaje del usuario
         const prompt = promptConsultas;
         const consulta = ctx.body;
