@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5492612533741@s.whatsapp.net',
     fromMe: false,
-    id: 'EF51550DF27C68E74EEAB894E64792E7',
+    id: '14B5D1F06BB5C8E676CA8D776F71AE8A',
     participant: undefined
   },
-  messageTimestamp: 1716671923,
+  messageTimestamp: 1717988623,
   pushName: 'Luis',
   broadcast: false,
   message: Message {
@@ -19,9 +19,9 @@
   from: '5492612533741'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_c3ac0aeb-5bed-40fc-837d-01237b179add',
-  keyword: 'key_85d6b6aa-4e00-4557-9389-63ca2ff9946d',
-  answer: 'Di algo mas!!!  👇',
+  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
+  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
+  answer: 'Pregunta algo mas!!!  👇',
   options: {
     media: null,
     buttons: [],
@@ -34,16 +34,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '4300978399935afd60858529cf73c719'
+  refSerialize: '3155ad60898a4abf839c031a64959263'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5492612533741@s.whatsapp.net',
     fromMe: false,
-    id: '5DB285B3684DDE327EE62DBC2C124F8E',
+    id: '77C64E654C4AC0A5A3DDBEFFE49AB6A3',
     participant: undefined
   },
-  messageTimestamp: 1716671925,
+  messageTimestamp: 1717988627,
   pushName: 'Luis',
   broadcast: false,
   message: Message {
@@ -57,9 +57,9 @@
   from: '5492612533741'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_c3ac0aeb-5bed-40fc-837d-01237b179add',
-  keyword: 'key_85d6b6aa-4e00-4557-9389-63ca2ff9946d',
-  answer: 'Di algo mas!!!  👇',
+  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
+  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
+  answer: 'Pregunta algo mas!!!  👇',
   options: {
     media: null,
     buttons: [],
@@ -72,44 +72,32 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '4300978399935afd60858529cf73c719'
+  refSerialize: '3155ad60898a4abf839c031a64959263'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5492612533741@s.whatsapp.net',
     fromMe: false,
-    id: '1CF2EE778056F00673192181EFE850B4',
+    id: '6970302F48B6A0C8A7FEE507713E438F',
     participant: undefined
   },
-  messageTimestamp: 1716671932,
+  messageTimestamp: 1717988637,
   pushName: 'Luis',
   broadcast: false,
   message: Message {
-    audioMessage: AudioMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7117-24/30541066_7491870554195093_1056490843093523632_n.enc?ccb=11-4&oh=01_Q5AaIMLbYFJWVw_fYhQ_VnXV3Wr7aqq-6t8Z48Oo2u5WvZhW&oe=6679D85B&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'audio/ogg; codecs=opus',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      seconds: 1,
-      ptt: true,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7117-24/30541066_7491870554195093_1056490843093523632_n.enc?ccb=11-4&oh=01_Q5AaIMLbYFJWVw_fYhQ_VnXV3Wr7aqq-6t8Z48Oo2u5WvZhW&oe=6679D85B&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      waveform: [Uint8Array]
-    },
+    conversation: 'Que es la adrenalina',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: '_event_voice_note__bc251b59-2ce3-49e6-b2bd-018fcb01aa74',
+  body: 'Que es la adrenalina',
   from: '5492612533741'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_c3ac0aeb-5bed-40fc-837d-01237b179add',
-  keyword: 'key_85d6b6aa-4e00-4557-9389-63ca2ff9946d',
-  answer: 'Di algo mas!!!  👇',
+  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
+  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
+  answer: 'Pregunta algo mas!!!  👇',
   options: {
     media: null,
     buttons: [],
@@ -122,5 +110,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '4300978399935afd60858529cf73c719'
+  refSerialize: '3155ad60898a4abf839c031a64959263'
 }

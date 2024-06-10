@@ -42,7 +42,7 @@ async function initializeModel() {
 // Definición del flujo principal del bot
 const principal = addKeyword([""])
     // Respuestas automáticas al ingresar un texto
-    .addAnswer("Di algo mas!!!  👇", { capture: true }, async (ctx, ctxFn) => {
+    .addAnswer("Pregunta algo mas!!!  👇", { capture: true }, async (ctx, ctxFn) => {
         // Captura el mensaje del usuario
         const prompt = promptConsultas;
         const consulta = ctx.body;
