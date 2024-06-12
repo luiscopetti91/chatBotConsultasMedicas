@@ -53,13 +53,22 @@ const principal = addKeyword([""])
             const result = await model.generateContent([prompt, consulta]);
             const response = await result.response;
             const text = response.text();
+
+            // Obtener el nombre del remitente del contexto
+            const name = ctx.pushName;
+           // console.log(`Remitente: ${name}`);
+
+            // Construir la respuesta personalizada
+            const personalizedResponse = `*Aquí está tu respuesta*, *_${name}_*: ${text}`;
+
             // Envía la respuesta al usuario
-            await ctxFn.flowDynamic(text);
+            await ctxFn.flowDynamic(personalizedResponse);
         } catch (error) {
             console.error("Error al generar respuesta:", error);
             await ctxFn.flowDynamic("Lo siento, ha ocurrido un error. Por favor, intenta de nuevo más tarde.");
         }
     });
+
 
 // Función principal que inicializa el bot
 const main = async () => {

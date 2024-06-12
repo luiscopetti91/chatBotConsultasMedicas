@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5492612533741@s.whatsapp.net',
     fromMe: false,
-    id: '14B5D1F06BB5C8E676CA8D776F71AE8A',
+    id: '32E8A063CEDB3C0502664A9CFEB018C1',
     participant: undefined
   },
-  messageTimestamp: 1717988623,
+  messageTimestamp: 1718163818,
   pushName: 'Luis',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '5492612533741'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
-  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
+  ref: 'ans_b36b5086-7528-4ff0-afd4-d8972d490d56',
+  keyword: 'key_3a1cf484-1635-4d62-81a8-f4ab208bbeff',
   answer: 'Pregunta algo mas!!!  👇',
   options: {
     media: null,
@@ -34,16 +34,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '3155ad60898a4abf839c031a64959263'
+  refSerialize: 'e8ea7e551c9cf5e66684f70b783ebc6c'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5492612533741@s.whatsapp.net',
     fromMe: false,
-    id: '77C64E654C4AC0A5A3DDBEFFE49AB6A3',
+    id: '41B570DD93F0FD9CC9D948EAE9838D1D',
     participant: undefined
   },
-  messageTimestamp: 1717988627,
+  messageTimestamp: 1718163823,
   pushName: 'Luis',
   broadcast: false,
   message: Message {
@@ -57,8 +57,8 @@
   from: '5492612533741'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
-  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
+  ref: 'ans_b36b5086-7528-4ff0-afd4-d8972d490d56',
+  keyword: 'key_3a1cf484-1635-4d62-81a8-f4ab208bbeff',
   answer: 'Pregunta algo mas!!!  👇',
   options: {
     media: null,
@@ -72,43 +72,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '3155ad60898a4abf839c031a64959263'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5492612533741@s.whatsapp.net',
-    fromMe: false,
-    id: '6970302F48B6A0C8A7FEE507713E438F',
-    participant: undefined
-  },
-  messageTimestamp: 1717988637,
-  pushName: 'Luis',
-  broadcast: false,
-  message: Message {
-    conversation: 'Que es la adrenalina',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que es la adrenalina',
-  from: '5492612533741'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_6d9ea4c1-ecb1-464f-bd32-b539c80dd267',
-  keyword: 'key_95f5803f-5365-42a8-8eb9-dad1fedb422f',
-  answer: 'Pregunta algo mas!!!  👇',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '3155ad60898a4abf839c031a64959263'
+  refSerialize: 'e8ea7e551c9cf5e66684f70b783ebc6c'
 }
